@@ -1,6 +1,12 @@
 # customized_pager
 
-A new Flutter project.
+A new Flutter project showing a sample of pager.
+
+## :camera_flash: Screenshots / GIFs
+
+
+https://user-images.githubusercontent.com/43546652/155115758-e2f3f501-3833-4413-93dc-02c577ed4d83.mp4
+
 
 ## Getting Started
 
